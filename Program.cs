@@ -16,7 +16,7 @@ namespace LKS_Kab_Desktop_2021
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Main("admin"));
+            Application.Run(new Main(""));
         }
     }
 }
