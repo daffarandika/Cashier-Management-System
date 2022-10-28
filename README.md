@@ -12,10 +12,10 @@ Soal : https://drive.google.com/file/d/12_-TCv3mLeenzMQbfeUwAe2_JXKZ5Pfa/view?us
   Setelah login ada beberapa tombol yang di-disable tergantung dengan role employee.
  
 - Untuk yang ingin mengetes aplikasi :
-  Yang diperlukan :
-1. Komputer dengan OS Windows
-2. Visual Studio
-3. SQL SERVER dan SSMS
-  Connection string bisa dirubah di Helper.cs > conn
-  Email admin = admin@admin.com
-  Password admin = admin
+  - Yang diperlukan :
+    1. Komputer dengan OS Windows
+    2. Visual Studio
+    3. SQL SERVER dan SSMS
+  - Connection string bisa dirubah di Helper.cs > conn
+  - Email admin = admin@admin.com
+  - Password admin = admin
