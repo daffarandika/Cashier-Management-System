@@ -106,7 +106,7 @@ namespace LKS_Kab_Desktop_2021
 
         private void oRDERToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Order order = new Order("6");
+            Order order = new Order("");
             order.ShowDialog();
         }
 
