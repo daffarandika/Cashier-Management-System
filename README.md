@@ -8,7 +8,7 @@ Soal : https://drive.google.com/file/d/12_-TCv3mLeenzMQbfeUwAe2_JXKZ5Pfa/view?us
   2. Employee yang bekerja di restoran tersebut, dengan role sebagai admin, kasir, atau chef
   3. Member
   4. Order yang pernah dibuat
-  Sebelum employee bisa mengakses aplikasi tersebut anda harus login dengan menggunakan email dan password.
+- Sebelum employee bisa mengakses aplikasi tersebut anda harus login dengan menggunakan email dan password.
   Setelah login ada beberapa tombol yang di-disable tergantung dengan role employee.
  
 - Untuk yang ingin mengetes aplikasi :
